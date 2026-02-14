@@ -1,2 +1,6 @@
 #注释123
-caddy:2
+baserow/backend:2.0.6
+baserow/web-frontend:2.0.6
+pgvector/pgvector:pg15
+redis:6
+bash:4.4
