@@ -1,2 +1,2 @@
 #注释
-jenkins/inbound-agent:jdk21
+baserow/baserow:2.0.6
